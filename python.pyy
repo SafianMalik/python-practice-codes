@@ -1,0 +1,5 @@
+name=print("sufyan: ")
+name_2=print("malik: ")
+age=print("18: ")
+address=print("kotli AJK")
+print(name,name_2,age,address)
