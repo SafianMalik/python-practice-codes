@@ -1,8 +1,8 @@
 print("hello!...")
 # substrect the numbers!!.....
-print("please Enter your name:")
+print("please Enter your nunmber:")
 x=int(input())
 y=int(input())
 
 if x-y:
-    print("The sum is",x-y)
+    print("The substract is",x-y)
