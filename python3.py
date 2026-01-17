@@ -1,0 +1,8 @@
+print("Hello")
+input("kia hall ha")
+print("Hello")
+input("kia hall ha")
+print("Hello")  
+input("kia hall ha")
+print("Hello")
+input("kia hall ha")
